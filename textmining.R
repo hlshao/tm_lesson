@@ -1,3 +1,7 @@
+### Basic Skill of Text Mining in R 
+## designed by Hsuanlei Shao
+## 邵軒磊 20200303
+
 rm(list = ls())
 library(networkD3) 
 library(dplyr) 
